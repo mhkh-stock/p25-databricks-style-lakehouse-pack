@@ -1,0 +1,102 @@
+{
+  "passed": 16,
+  "total": 16,
+  "tests": [
+    {
+      "test": "t01_bronze_duplicate_lines.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t02_bronze_nonpositive_qty.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t03_bronze_unknown_product.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t04_bronze_wrong_line_total.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t05_silver_no_duplicates.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t06_silver_positive_qty.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t07_silver_product_exists.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t08_silver_totals_correct.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t09_gold_fact_grain.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t10_gold_no_null_keys.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t11_totals_reconcile_bronze_silver_gold.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t12_dim_date_coverage.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t13_dim_product_scd_type1.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t14_gold_no_stale_dates.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t15_inventory_nonnegative.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t16_fact_purchases_reconcile.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    }
+  ]
+}

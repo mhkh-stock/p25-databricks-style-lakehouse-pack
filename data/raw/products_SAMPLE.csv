@@ -1,0 +1,37 @@
+product_code,product_name,category,supplier_id,unit,cost_price_pkr,sell_price_pkr
+PRD-001,Basmati Rice 1121 (25 kg bag),Rice & Grains,SUP-01,25 kg bag,7300,7950
+PRD-002,Super Basmati (10 kg bag),Rice & Grains,SUP-01,10 kg bag,2950,3250
+PRD-003,Irri-6 Rice (25 kg bag),Rice & Grains,SUP-01,25 kg bag,3850,4250
+PRD-004,Brown Rice (5 kg bag),Rice & Grains,SUP-01,5 kg bag,1650,1850
+PRD-005,Barley (10 kg bag),Rice & Grains,SUP-01,10 kg bag,1980,2200
+PRD-006,Chakki Atta (10 kg bag),Flour & Atta,SUP-02,10 kg bag,1180,1320
+PRD-007,Chakki Atta (5 kg bag),Flour & Atta,SUP-02,5 kg bag,620,700
+PRD-008,Fine Maida (5 kg bag),Flour & Atta,SUP-02,5 kg bag,640,720
+PRD-009,Besan / Gram Flour (2 kg),Flour & Atta,SUP-02,2 kg,420,480
+PRD-010,Suji / Semolina (2 kg),Flour & Atta,SUP-02,2 kg,310,360
+PRD-011,White Sugar (50 kg bag),Sugar & Sweeteners,SUP-03,50 kg bag,7900,8400
+PRD-012,White Sugar (5 kg bag),Sugar & Sweeteners,SUP-03,5 kg bag,830,900
+PRD-013,Gur / Jaggery (5 kg),Sugar & Sweeteners,SUP-03,5 kg,780,900
+PRD-014,Honey (1 kg jar),Sugar & Sweeteners,SUP-03,1 kg jar,2400,2750
+PRD-015,Cooking Oil (16 L tin),Cooking Oil & Ghee,SUP-04,16 L tin,9900,10550
+PRD-016,Cooking Oil (5 L),Cooking Oil & Ghee,SUP-04,5 L,3180,3430
+PRD-017,Banaspati Ghee (10 kg tin),Cooking Oil & Ghee,SUP-04,10 kg tin,5900,6300
+PRD-018,Banaspati Ghee (5 kg),Cooking Oil & Ghee,SUP-04,5 kg,2980,3230
+PRD-019,Desi Ghee (1 kg),Cooking Oil & Ghee,SUP-04,1 kg,2850,3150
+PRD-020,Chana Dal (25 kg bag),Pulses & Lentils,SUP-05,25 kg bag,5450,5950
+PRD-021,Masoor Dal (10 kg bag),Pulses & Lentils,SUP-05,10 kg bag,2480,2720
+PRD-022,Moong Dal (10 kg bag),Pulses & Lentils,SUP-05,10 kg bag,2350,2580
+PRD-023,Mash Dal (5 kg bag),Pulses & Lentils,SUP-05,5 kg bag,1480,1650
+PRD-024,Black Chana (10 kg bag),Pulses & Lentils,SUP-05,10 kg bag,2750,3020
+PRD-025,Red Chilli Powder (1 kg),Spices & Masala,SUP-06,1 kg,720,820
+PRD-026,Turmeric Powder (1 kg),Spices & Masala,SUP-06,1 kg,450,520
+PRD-027,Coriander Powder (1 kg),Spices & Masala,SUP-06,1 kg,390,450
+PRD-028,Garam Masala (500 g),Spices & Masala,SUP-06,500 g,460,530
+PRD-029,Cumin Seeds (1 kg),Spices & Masala,SUP-06,1 kg,1080,1220
+PRD-030,Black Tea (5 kg),Tea & Beverages,SUP-07,5 kg,4550,4950
+PRD-031,Black Tea (1 kg),Tea & Beverages,SUP-07,1 kg,940,1030
+PRD-032,Green Tea (500 g),Tea & Beverages,SUP-07,500 g,620,710
+PRD-033,Milk Powder (1 kg),Tea & Beverages,SUP-07,1 kg,1650,1820
+PRD-034,Almonds (1 kg),Dry Fruits & Nuts,SUP-07,1 kg,3400,3850
+PRD-035,Walnuts (1 kg),Dry Fruits & Nuts,SUP-07,1 kg,2650,3000
+PRD-036,"Dates, Ajwa (1 kg)",Dry Fruits & Nuts,SUP-07,1 kg,4200,4750
